@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 ##############################################################################
-# QNN Operating on Iris data set
+# QNN Operating on MNIST data set (only two labels at a time)
 # Matthew Dobson
 # github - 
 # 
